@@ -1,4 +1,4 @@
-const words = [
+const wordsData = [
   {
     id:1,
     english:"accept",
