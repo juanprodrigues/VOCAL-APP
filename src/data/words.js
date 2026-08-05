@@ -1,4 +1,4 @@
-export const words = [
+const words = [
   {
     id:1,
     english:"accept",
@@ -1600,3 +1600,6 @@ export const words = [
     exampleEs:"Ellos construyeron una escuela nueva"
   }
 ];
+
+export default wordsData;
+
