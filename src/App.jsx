@@ -5,7 +5,8 @@ import Study from "./pages/Study";
 import WordForm from "./components/WordForm";
 
 import { useState } from "react";
-import { wordsData as initialWords } from "./data/words";
+import initialWords from "./data/words";
+
 
 
 function App() {
